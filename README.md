@@ -3,10 +3,6 @@ title: "Getting and Cleaning Data Course Project_README"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Course Project Description
 
 In this course project assignment, the learner is expected to complete the task below.  
